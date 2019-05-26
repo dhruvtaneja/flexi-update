@@ -3,4 +3,8 @@
     <string name="app_desc">A sample app to test the in-app updates provided by the Play Core Library.</string>
     <string name="app_version_heading">Current App Version</string>
     <string name="check_for_update">Check For Update</string>
+    <string name="update_available">Update available</string>
+    <string name="update_not_available">No update available</string>
+    <string name="restart_to_update">Update download. Tap to restart</string>
+    <string name="action_restart">Restart</string>
 </resources>
